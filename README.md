@@ -1,5 +1,12 @@
 # GIT and MARKDOWN  useful commands 
 
+
+## ABOUT ME
+
+! [me](me.jpg)
+
+I am a biguiner coding, but looking forward to learning new things. 
+
 ## GIT COMMANDS
 
 Here are the steps to create a new repository:
@@ -24,3 +31,4 @@ git add .
 git commit -m 'my message'
 git push
 ``` 
+
