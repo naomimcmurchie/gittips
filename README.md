@@ -3,9 +3,9 @@
 
 ## ABOUT ME
 
-! [me](me.jpg)
+![me](me.jpg)
 
-I am a biguiner coding, but looking forward to learning new things. 
+I am a beginner at coding, but looking forward to learning new things. 
 
 ## GIT COMMANDS
 
@@ -32,3 +32,41 @@ git commit -m 'my message'
 git push
 ``` 
 
+
+# MARKDOWN COMMANDS
+
+## Headers
+
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+
+## LINK 
+
+
+```
+
+[ANYNAME](www.google.com)
+
+```
+
+[ANYNAME](www.google.com)
+
+## PICTURE
+
+```
+
+![ANYTEXT](mypicture.jpg)
+
+OR
+
+![ANYTEXT](www.myimage.com)
+
+```
+
+https://static.gamespot.com/uploads/scale_super/1578/15789737/3515432-endgamedek.jpg
