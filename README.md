@@ -9,7 +9,7 @@ Here are the steps to create a new repository:
 3. In the top right select 'new repository'
 4. Then do the following 
 
-RUN THIS INSIDE YOUR PROJECT FOLDER (ONLY ONE TIME)
+RUN THIS INSIDE YOUR PROJECT FOLDER **FIRST** **TIME**
 ```
 git init
 git add .
