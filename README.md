@@ -1,11 +1,6 @@
 # GIT and MARKDOWN  useful commands 
 
 
-## ABOUT ME
-
-![me](me.jpg)
-
-I am a beginner at coding, but looking forward to learning new things. 
 
 ## GIT COMMANDS
 
@@ -70,3 +65,10 @@ OR
 ```
 
 ![avengers](https://static.gamespot.com/uploads/scale_super/1578/15789737/3515432-endgamedek.jpg)
+
+
+## ABOUT ME
+
+![me](me.jpg)
+
+I am a beginner at coding, but looking forward to learning new things. 
